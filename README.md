@@ -20,6 +20,7 @@ Le backtest montre que :
 - La stratégie SMA génère de nombreux signaux (achats/ventes)
 - Elle permet parfois d’éviter certaines baisses
 - Mais elle sous-performe globalement une stratégie Buy & Hold sur la période étudiée
+- Nombre d'achats et de ventes générés par la stratégie, illustrent un comportement de sur-trading.
 
 Il met en évidence les limites des indicateurs techniques simples.
 
